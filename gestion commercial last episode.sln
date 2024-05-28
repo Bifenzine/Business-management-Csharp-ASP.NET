@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gestion commercial last episode", "gestion commercial last episode\gestion commercial last episode.csproj", "{AEAA384A-52F5-4EC3-9F1E-EC6D1BF5FC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEAA384A-52F5-4EC3-9F1E-EC6D1BF5FC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAA384A-52F5-4EC3-9F1E-EC6D1BF5FC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAA384A-52F5-4EC3-9F1E-EC6D1BF5FC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAA384A-52F5-4EC3-9F1E-EC6D1BF5FC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38F30F2D-190C-4E46-8C3C-6F6D21C928C7}
+	EndGlobalSection
+EndGlobal

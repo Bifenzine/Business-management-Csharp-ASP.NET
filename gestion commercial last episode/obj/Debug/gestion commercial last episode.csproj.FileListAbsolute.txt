@@ -1,0 +1,204 @@
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe.config
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.pdb
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.AssemblyReference.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Form1.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Properties.Resources.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.GenerateResource.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CoreCompileInputs.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CopyComplete
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.exe
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.pdb
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Login.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\RestSharp.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Buffers.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.CodeDom.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.Odbc.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.OleDb.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.SqlClient.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Drawing.Common.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.Packaging.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.Ports.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Memory.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.AccessControl.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Permissions.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Commandes.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.Fody.CopyLocal.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.DetailoCommand.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Google.Protobuf.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\MySql.Data.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Npgsql.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.Common.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.Text.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Json.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ValueTuple.xml
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Familles.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Produits.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe.config
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.pdb
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Google.Protobuf.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\MySql.Data.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Npgsql.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\RestSharp.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.Common.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.Text.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Buffers.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.CodeDom.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.Odbc.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.OleDb.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Drawing.Common.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.Packaging.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.Ports.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Memory.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Permissions.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Json.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ValueTuple.xml
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.AssemblyReference.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Commandes.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.DetailoCommand.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Familles.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Form1.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Login.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Produits.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Properties.Resources.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.GenerateResource.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CoreCompileInputs.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.Fody.CopyLocal.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CopyComplete
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.exe
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.pdb
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.AssemblyReference.cache
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Commandes.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.DetailoCommand.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Familles.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Form1.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Login.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Produits.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Properties.Resources.resources
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.GenerateResource.cache
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CoreCompileInputs.cache
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.exe
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.pdb
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe.config
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.pdb
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Google.Protobuf.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\MySql.Data.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Newtonsoft.Json.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Npgsql.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\RestSharp.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.Common.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\ServiceStack.Text.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Buffers.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.CodeDom.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.Odbc.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.OleDb.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Data.SqlClient.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Drawing.Common.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.Packaging.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.IO.Ports.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Memory.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.AccessControl.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Permissions.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Text.Json.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\System.ValueTuple.xml
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.Fody.CopyLocal.cache
+C:\Users\costa\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CopyComplete

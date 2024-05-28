@@ -1,0 +1,25 @@
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe.config
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.pdb
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Guna.UI2.dll
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.AssemblyReference.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Form1.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Properties.Resources.resources
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.GenerateResource.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CoreCompileInputs.cache
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CopyComplete
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.exe
+C:\Users\es2im\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.pdb
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe.config
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.exe
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\gestion commercial last episode.pdb
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\bin\Debug\Guna.UI2.dll
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.AssemblyReference.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Form1.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Properties.Resources.resources
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.GenerateResource.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CoreCompileInputs.cache
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.csproj.CopyComplete
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.exe
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion commercial last episode.pdb
+C:\Users\ST1-12\source\repos\gestion commercial last episode\gestion commercial last episode\obj\Debug\gestion_commercial_last_episode.Login.resources
